@@ -1,2 +1,3 @@
 # Quotesbot
-A discord bot
+A discord bot made using python
+  It presents random quotes.
