@@ -1,0 +1,2 @@
+# Quotesbot
+A discord bot
